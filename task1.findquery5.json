@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64ab9a2256033f88de4227d7"
+  },
+  "id": "4",
+  "product_name": "Gorgeous Plastic Pants",
+  "product_price": 492,
+  "product_material": "Soft",
+  "product_color": "plum"
+},
+{
+  "_id": {
+    "$oid": "64ab9a2256033f88de4227dc"
+  },
+  "id": "9",
+  "product_name": "Awesome Wooden Ball",
+  "product_price": 28,
+  "product_material": "Soft",
+  "product_color": "azure"
+},
+{
+  "_id": {
+    "$oid": "64ab9a2256033f88de4227de"
+  },
+  "id": "11",
+  "product_name": "Unbranded Wooden Cheese",
+  "product_price": 26,
+  "product_material": "Soft",
+  "product_color": "black"
+},
+{
+  "_id": {
+    "$oid": "64ab9a2256033f88de4227e6"
+  },
+  "id": "19",
+  "product_name": "Intelligent Cotton Chips",
+  "product_price": 46,
+  "product_material": "Soft",
+  "product_color": "azure"
+}]
